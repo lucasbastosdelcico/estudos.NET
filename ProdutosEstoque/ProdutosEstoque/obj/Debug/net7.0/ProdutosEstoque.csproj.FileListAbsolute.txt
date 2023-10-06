@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.exe
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.deps.json
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.runtimeconfig.json
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.dll
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\bin\Debug\net7.0\ProdutosEstoque.pdb
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.AssemblyInfo.cs
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.dll
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\refint\ProdutosEstoque.dll
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.pdb
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ProdutosEstoque.genruntimeconfig.cache
+C:\GitHub\estudos.NET\ProdutosEstoque\ProdutosEstoque\obj\Debug\net7.0\ref\ProdutosEstoque.dll
