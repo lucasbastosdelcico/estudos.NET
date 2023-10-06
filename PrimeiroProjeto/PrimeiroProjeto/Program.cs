@@ -10,36 +10,29 @@ namespace PrimreiroProjeto
 
            ParametrosTriangulo trianguloB = new ParametrosTriangulo();
 
-            double resultadoCalculaP;
-            double resultadoCalculaP2;
             double resultadoX;
             double resultadoY;
-            Console.WriteLine("Entre com as medidas do triangulo X");
+
+            PerguntaTriangulo("X");
             trianguloA.lado1 = double.Parse(Console.ReadLine());
             trianguloA.lado2 = double.Parse(Console.ReadLine());
             trianguloA.lado3 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com as medidas do triangulo Y");
+            PerguntaTriangulo("Y");
             trianguloB.lado1 = double.Parse(Console.ReadLine());
             trianguloB.lado2 = double.Parse(Console.ReadLine());
             trianguloB.lado3 = double.Parse(Console.ReadLine());
 
-            resultadoCalculaP = CalculaPrimeiro(trianguloA.lado1, trianguloA.lado2, trianguloA.lado3);
-            resultadoCalculaP2 =CalculaPrimeiro(trianguloB.lado1, trianguloB.lado2, trianguloB.lado3);
+            trianguloA.resultado = CalculaPrimeiro(trianguloA.lado1, trianguloA.lado2, trianguloA.lado3);
+            trianguloB.resultado =CalculaPrimeiro(trianguloB.lado1, trianguloB.lado2, trianguloB.lado3);
 
-            resultadoX = CalculaArea(resultadoCalculaP , trianguloA.lado1, trianguloA.lado2 , trianguloA.lado3);
-            resultadoY =  CalculaArea(resultadoCalculaP2 ,trianguloB.lado1,trianguloB.lado2,trianguloB.lado3);
+            resultadoX = CalculaArea(trianguloA.resultado, trianguloA.lado1, trianguloA.lado2 , trianguloA.lado3);
+            resultadoY =  CalculaArea(trianguloB.resultado, trianguloB.lado1,trianguloB.lado2,trianguloB.lado3);
 
             Console.WriteLine($"Área de x = {resultadoX.ToString("F4" ,CultureInfo.InvariantCulture)}");
             Console.WriteLine($"Área de Y = {resultadoY.ToString("F4", CultureInfo.InvariantCulture)}");
 
-            if (resultadoX > resultadoY)
-            {
-                Console.WriteLine("A área do X é a maior!");
-            }
-            else
-            {
-                Console.WriteLine("A área do Y é a maior!");
-            }
+            ImprimeResultado(resultadoX, resultadoY);
+
         }
 
         static double CalculaPrimeiro(double a, double b, double c)
@@ -55,6 +48,21 @@ namespace PrimreiroProjeto
 
             result = Math.Sqrt(calculop * (calculop - a) * (calculop - b)*(calculop - c));
             return result;
+        }
+        static void PerguntaTriangulo(string parametro)
+        {
+           Console.WriteLine($"Entre com as medidas do triangulo {parametro}");
+        }
+        static void ImprimeResultado(double x , double y)
+        {
+            if ( x > y)
+            {
+                Console.WriteLine("A área do X é a maior!");
+            }
+            else
+            {
+                Console.WriteLine("A área do Y é a maior!");
+            }
         }
     }
 
