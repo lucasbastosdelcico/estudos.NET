@@ -18,5 +18,11 @@ namespace ProdutosEstoque
         {
               Quantidade = Quantidade - quantity;
         }
+
+        public static int soma()
+        {
+            return 1 + 1;
+        }
+       
     }
 }

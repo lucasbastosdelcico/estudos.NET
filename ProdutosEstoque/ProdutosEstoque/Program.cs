@@ -10,6 +10,7 @@ namespace ProdutosEstoque
             int novaQuantidade;
             Produto produto = new Produto();
 
+      
             PerguntaProduto();
             produto.Nome = Console.ReadLine();
             produto.Preco = double.Parse(Console.ReadLine());
@@ -24,7 +25,6 @@ namespace ProdutosEstoque
             produto.RemoverProdutos(novaQuantidade);
             MostraDadosProdutoAtualizados(produto);
         }
-
         static void PerguntaProduto()
         {
             Console.WriteLine("Entre os dados do Produto, Nome , Preço e quantidade em estoque.");

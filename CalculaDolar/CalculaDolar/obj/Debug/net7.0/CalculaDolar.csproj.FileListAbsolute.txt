@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\bin\Debug\net7.0\CalculaDolar.exe
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\bin\Debug\net7.0\CalculaDolar.deps.json
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\bin\Debug\net7.0\CalculaDolar.runtimeconfig.json
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\bin\Debug\net7.0\CalculaDolar.dll
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\bin\Debug\net7.0\CalculaDolar.pdb
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.AssemblyInfo.cs
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.dll
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\refint\CalculaDolar.dll
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.pdb
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\CalculaDolar.genruntimeconfig.cache
+C:\GitHub\estudos.NET\CalculaDolar\CalculaDolar\obj\Debug\net7.0\ref\CalculaDolar.dll
