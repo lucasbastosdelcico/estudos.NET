@@ -1,11 +1,16 @@
 ﻿
+using System.Runtime.InteropServices;
+
 namespace ProdutosEstoque
 {
-    public  class Produto
+    public class Produto
     {
-       public string? Nome { get; set; }
-        public double Preco { get; set; }
-        public int Quantidade { get; set; }
+        public  string? Nome;
+        public  double Preco;
+        public  int Quantidade;
+
+         public Produto(){}
+
         public double TotalEmEstoque()
         {
             double total = Preco * Quantidade;
@@ -17,11 +22,6 @@ namespace ProdutosEstoque
         public void RemoverProdutos(int quantity)
         {
               Quantidade = Quantidade - quantity;
-        }
-
-        public static int soma()
-        {
-            return 1 + 1;
         }
        
     }

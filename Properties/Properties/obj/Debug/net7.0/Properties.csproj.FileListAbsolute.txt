@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\Properties\Properties\bin\Debug\net7.0\Properties.exe
+C:\GitHub\estudos.NET\Properties\Properties\bin\Debug\net7.0\Properties.deps.json
+C:\GitHub\estudos.NET\Properties\Properties\bin\Debug\net7.0\Properties.runtimeconfig.json
+C:\GitHub\estudos.NET\Properties\Properties\bin\Debug\net7.0\Properties.dll
+C:\GitHub\estudos.NET\Properties\Properties\bin\Debug\net7.0\Properties.pdb
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.AssemblyInfo.cs
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.dll
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\refint\Properties.dll
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.pdb
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\Properties.genruntimeconfig.cache
+C:\GitHub\estudos.NET\Properties\Properties\obj\Debug\net7.0\ref\Properties.dll

@@ -8,9 +8,9 @@ namespace ProdutosEstoque
         static void Main(string[] args)
         {
             int novaQuantidade;
+            
             Produto produto = new Produto();
 
-      
             PerguntaProduto();
             produto.Nome = Console.ReadLine();
             produto.Preco = double.Parse(Console.ReadLine());
@@ -31,7 +31,7 @@ namespace ProdutosEstoque
         }
         static void MostraDadosProduto(Produto produto)
         {
-            Console.WriteLine($"Dados do produto: {produto.Nome}, ${produto.Preco}, {produto.Quantidade} unidades, Total : {produto.TotalEmEstoque().ToString("F2",CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Dados do produto:{produto.Nome}, ${produto.Preco}, {produto.Quantidade} unidades, Total : {produto.TotalEmEstoque().ToString("F2",CultureInfo.InvariantCulture)}");
         }
         static void AdcProduto()
         {
