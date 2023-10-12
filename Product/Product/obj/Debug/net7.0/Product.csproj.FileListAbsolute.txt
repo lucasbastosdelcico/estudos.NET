@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\Product\Product\bin\Debug\net7.0\Product.exe
+C:\GitHub\estudos.NET\Product\Product\bin\Debug\net7.0\Product.deps.json
+C:\GitHub\estudos.NET\Product\Product\bin\Debug\net7.0\Product.runtimeconfig.json
+C:\GitHub\estudos.NET\Product\Product\bin\Debug\net7.0\Product.dll
+C:\GitHub\estudos.NET\Product\Product\bin\Debug\net7.0\Product.pdb
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.AssemblyInfo.cs
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.dll
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\refint\Product.dll
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.pdb
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\Product.genruntimeconfig.cache
+C:\GitHub\estudos.NET\Product\Product\obj\Debug\net7.0\ref\Product.dll

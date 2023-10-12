@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.exe
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.deps.json
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.runtimeconfig.json
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.dll
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.pdb
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfo.cs
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.dll
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\refint\ProjetoHotel.dll
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.pdb
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.genruntimeconfig.cache
+C:\GitHub\estudos.NET\ProjetoHotel\ProjetoHotel\obj\Debug\net7.0\ref\ProjetoHotel.dll
