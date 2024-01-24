@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\Course\bin\Debug\net7.0\Course.exe
+C:\GitHub\estudos.NET\Course\bin\Debug\net7.0\Course.deps.json
+C:\GitHub\estudos.NET\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\GitHub\estudos.NET\Course\bin\Debug\net7.0\Course.dll
+C:\GitHub\estudos.NET\Course\bin\Debug\net7.0\Course.pdb
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.dll
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\refint\Course.dll
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.pdb
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\GitHub\estudos.NET\Course\obj\Debug\net7.0\ref\Course.dll
