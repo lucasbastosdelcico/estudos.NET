@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\ContratoTrabalho\bin\Debug\net7.0\ContratoTrabalho.exe
+C:\GitHub\estudos.NET\ContratoTrabalho\bin\Debug\net7.0\ContratoTrabalho.deps.json
+C:\GitHub\estudos.NET\ContratoTrabalho\bin\Debug\net7.0\ContratoTrabalho.runtimeconfig.json
+C:\GitHub\estudos.NET\ContratoTrabalho\bin\Debug\net7.0\ContratoTrabalho.dll
+C:\GitHub\estudos.NET\ContratoTrabalho\bin\Debug\net7.0\ContratoTrabalho.pdb
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.AssemblyInfo.cs
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.dll
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\refint\ContratoTrabalho.dll
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.pdb
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ContratoTrabalho.genruntimeconfig.cache
+C:\GitHub\estudos.NET\ContratoTrabalho\obj\Debug\net7.0\ref\ContratoTrabalho.dll

@@ -1,12 +1,12 @@
 ﻿namespace ContratoTrabalho.Entities
 {
-    public  class Departament
+    public  class Deparment
     {
         public string Name { get; set; }
 
-        public Departament() { }
+        public Deparment() { }
 
-        public Departament(string name) {
+        public Deparment(string name) {
             Name = name; 
         }
 

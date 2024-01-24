@@ -8,17 +8,17 @@ namespace ContratoTrabalho.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public Departament Departament { get; set; }
+        public Deparment Deparment { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
         public Worker() { }
 
-        public Worker(string name, WorkerLevel level, double baseSalary, Departament departament)
+        public Worker(string name, WorkerLevel level, double baseSalary, Deparment deparment)
         {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            Departament = departament;
+            Deparment = deparment;
         }
 
         public void AddContract(HourContract contract)

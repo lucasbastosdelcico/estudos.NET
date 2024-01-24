@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ContratoTrabalho/1.0.0": {
+        "runtime": {
+          "ContratoTrabalho.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContratoTrabalho/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
