@@ -1,0 +1,7 @@
+﻿namespace HerancaPolimorfismo
+{
+    class Program
+    {
+
+    }
+}
