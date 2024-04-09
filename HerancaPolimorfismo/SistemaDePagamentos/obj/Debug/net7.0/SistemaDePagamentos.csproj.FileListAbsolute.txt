@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.exe
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.deps.json
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.runtimeconfig.json
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\bin\Debug\net7.0\SistemaDePagamentos.pdb
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.AssemblyInfo.cs
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\refint\SistemaDePagamentos.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.pdb
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\SistemaDePagamentos.genruntimeconfig.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\SistemaDePagamentos\obj\Debug\net7.0\ref\SistemaDePagamentos.dll

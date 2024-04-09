@@ -1,4 +1,4 @@
-﻿namespace HerancaPolimorfismo
+﻿namespace HerancaPolimorfismo.Entities
 {
     public class BusinessAccount : Account
     {
@@ -13,7 +13,8 @@
 
         public void loan(double amount)
         {
-            if(amount <= LoanLimit){
+            if (amount <= LoanLimit)
+            {
 
                 Balance += amount;
             }
