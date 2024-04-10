@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\bin\Debug\net7.0\TipoProduto.exe
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\bin\Debug\net7.0\TipoProduto.deps.json
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\bin\Debug\net7.0\TipoProduto.runtimeconfig.json
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\bin\Debug\net7.0\TipoProduto.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\bin\Debug\net7.0\TipoProduto.pdb
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.AssemblyInfo.cs
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\refint\TipoProduto.dll
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.pdb
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\TipoProduto.genruntimeconfig.cache
+C:\GitHub\estudos.NET\HerancaPolimorfismo\TipoProduto\obj\Debug\net7.0\ref\TipoProduto.dll
