@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\estudos.NET\\HerancaPolimorfismo\\Estacionamento\\Estacionamento.csproj": {}
+    "C:\\GitHub\\estudos.NET\\Interface\\Estacionamento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\estudos.NET\\HerancaPolimorfismo\\Estacionamento\\Estacionamento.csproj": {
+    "C:\\GitHub\\estudos.NET\\Interface\\Estacionamento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\estudos.NET\\HerancaPolimorfismo\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "C:\\GitHub\\estudos.NET\\Interface\\Estacionamento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\GitHub\\estudos.NET\\HerancaPolimorfismo\\Estacionamento\\Estacionamento.csproj",
+        "projectPath": "C:\\GitHub\\estudos.NET\\Interface\\Estacionamento\\Estacionamento.csproj",
         "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\estudos.NET\\HerancaPolimorfismo\\Estacionamento\\obj\\",
+        "outputPath": "C:\\GitHub\\estudos.NET\\Interface\\Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
