@@ -1,0 +1,15 @@
+C:\GitHub\estudos.NET\Interface\Icomparable\bin\Debug\net7.0\Icomparable.exe
+C:\GitHub\estudos.NET\Interface\Icomparable\bin\Debug\net7.0\Icomparable.deps.json
+C:\GitHub\estudos.NET\Interface\Icomparable\bin\Debug\net7.0\Icomparable.runtimeconfig.json
+C:\GitHub\estudos.NET\Interface\Icomparable\bin\Debug\net7.0\Icomparable.dll
+C:\GitHub\estudos.NET\Interface\Icomparable\bin\Debug\net7.0\Icomparable.pdb
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.csproj.AssemblyReference.cache
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.AssemblyInfoInputs.cache
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.AssemblyInfo.cs
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.csproj.CoreCompileInputs.cache
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.dll
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\refint\Icomparable.dll
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.pdb
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\Icomparable.genruntimeconfig.cache
+C:\GitHub\estudos.NET\Interface\Icomparable\obj\Debug\net7.0\ref\Icomparable.dll
